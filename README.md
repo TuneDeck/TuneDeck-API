@@ -1,4 +1,4 @@
-# NCS Metadata API (PHP)
+# TuneDeck API
 
 PHP crawler + JSON API for `ncs.io` that stores only metadata and external URLs.
 
