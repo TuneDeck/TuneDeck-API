@@ -1,0 +1,2 @@
+# Run every day at 03:15
+15 3 * * * /usr/bin/php /var/www/ncs_api_v2/crawl.php daily >> /var/www/ncs_api_v2/storage/logs/cron.log 2>&1
